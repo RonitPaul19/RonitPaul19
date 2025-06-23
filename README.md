@@ -25,7 +25,7 @@ I'm a **Class 12 student** from India, currently preparing for **JEE 2026** and 
 - [x] C++ basics and STL
 - [x] Recursion, backtracking hashing
 - [ ] Basic DS
-- [ ] Searching, Sorting
+- [x] Searching, Sorting
 - [ ] Hashmaps, Trees, Heaps
 - [ ] sliding window
 - [ ] Graphs
