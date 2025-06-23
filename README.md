@@ -23,9 +23,15 @@ I'm a **Class 12 student** from India, currently preparing for **JEE 2026** and 
 ## 📚 Learning Now
 
 - C++ basics and STL
-- Recursion, DP, and other DSA topics
-- Basics of Git & GitHub
-
+- Recursion, backtracking hashing
+- Basic DS
+- Searching, Sorting
+- Hashmaps, Trees, Heaps
+- sliding window
+- Graphs
+- Dynamic programming
+- OOPs
+  
 ---
 
 ## 🛠 Tools I Use
