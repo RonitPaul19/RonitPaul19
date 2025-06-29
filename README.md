@@ -6,7 +6,7 @@ I'm a **Class 12 student** from India, currently preparing for **JEE 2026** and 
 
 ## 🌟 My Goals
 
-- Become one of the **best programmers** in the world 💻
+- Become a **great** programmer 💻
 - Learn how real tech works and build cool stuff 🚀
 
 ---
