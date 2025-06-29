@@ -46,7 +46,6 @@ I'm a **Class 12 student** from India, currently preparing for **JEE 2026** and 
 ## 🔥 Current Focus
 
 - One DSA problem daily ✅
-- School + Coaching balance 📘
 - Getting better every single day 🌱
 
 ---
