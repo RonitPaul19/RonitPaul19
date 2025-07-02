@@ -17,7 +17,7 @@ I'm a **Class 12 student** from India, currently preparing for **JEE 2026** and 
 - Learn from online platforms like **LeetCode, GFG, and YouTube**
 - Build coding habits and small projects
 - Use **VS Code + GitHub** for everything I do
-- NEW ADDITION : I also started to build some cool python projects, so please check it out
+- I also started to build some cool python projects, so please check it out
 
 ---
 
