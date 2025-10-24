@@ -13,25 +13,35 @@ I'm a **Class 12 student** from India, currently preparing for **JEE 2026** and 
 
 ## 💻 What I Do
 
+- Build cool websites 
 - Solve **DSA problems** daily (mostly in C++)
 - Learn from online platforms like **LeetCode, GFG, and YouTube**
 - Build coding habits and small projects
 - Use **VS Code + GitHub** for everything I do
-- I also started to build some cool projects, so please check it out
+- I will also to build some cool projects, so please check it out
 
 ---
 
-## 📚 Learning Now
+## 📚 Learning Now(DSA)
 
 - [x] C++ basics and STL
 - [x] Recursion, backtracking
-- [ ] Basic DS
+- [x] Basic DS
 - [x] Searching, Sorting
 - [ ] Hashmaps, Trees, Heaps
 - [ ] sliding window
 - [ ] Graphs
 - [ ] Dynamic programming
 - [ ] OOPs
+  
+---
+
+## 📚 Learning Now(Dev)
+
+- [x] HTML/CSS/Javascript
+- [x] Tailwind CSS
+- [x] React js
+- [ ] MySQL
   
 ---
 
