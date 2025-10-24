@@ -48,6 +48,8 @@ I'm a **Class 12 student** from India, currently preparing for **JEE 2026** and 
 ## 🛠 Tools I Use
 
 - C++
+- HTML/CSS/Javascript
+- Neovim
 - VS Code
 - Git & GitHub
 
