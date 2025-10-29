@@ -36,14 +36,6 @@
 
 ---
 
-## 📚 Projects
-🚧 *(more coming soon...)*  
-- 🔹 [Data Structures & Algorithms](#) – My DSA journey repo  
-- 🔹 [C++ Projects](#) – Small console-based applications  
-- 🔹 [Python Projects](#) – Experimenting with automation & logic-based tasks  
-
----
-
 ## 📈 GitHub Stats
 ![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonitPaul19&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonitPaul19&layout=compact&theme=tokyonight)
