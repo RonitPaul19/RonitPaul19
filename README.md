@@ -1,67 +1,59 @@
-# 👋 Hey, I'm Ronit
+# 👋 Hey, I'm Ronit Paul
 
-I'm a **Class 12 student** from India, currently preparing for **JEE 2026** and learning **coding** every day.
-
----
-
-## 🌟 My Goals
-
-- Become a **great** programmer 💻
-- Learn how real tech works and build cool stuff 🚀
+🎯 **Aspiring Software Engineer | C++ Developer | DSA Enthusiast | Web designing**
 
 ---
 
-## 💻 What I Do
-
-- Build cool websites 
-- Solve **DSA problems** daily (mostly in C++)
-- Learn from online platforms like **LeetCode, GFG, and YouTube**
-- Build coding habits and small projects
-- Use **VS Code + GitHub** for everything I do
-- I will also to build some cool projects, so please check it out
-
----
-
-## 📚 Learning Now(DSA)
-
-- [x] C++ basics and STL
-- [x] Recursion, backtracking
-- [x] Basic DS
-- [x] Searching, Sorting
-- [ ] Hashmaps, Trees, Heaps
-- [ ] sliding window
-- [ ] Graphs
-- [ ] Dynamic programming
-- [ ] OOPs
-  
----
-
-## 📚 Learning Now(Dev)
-
-- [x] HTML/CSS/Javascript
-- [x] Tailwind CSS
-- [x] React js
-- [ ] MySQL
-  
----
-
-## 🛠 Tools I Use
-
-- C++
-- HTML/CSS/Javascript
-- Neovim
-- VS Code
-- Git & GitHub
+## 🚀 About Me
+- 🧠 Currently a **Class 12 (AHSEC)** student focused on **JEE prep + Software Development**  
+- 💻 Passionate about **building efficient systems**, solving **DSA problems**, and learning **real-world development**  
+- 🔥 I believe in mastering **fundamentals + clean code** before frameworks  
+- 🌱 Currently learning:
+  - Data Structures & Algorithms (C++)
+  - Git & GitHub for version control
+  - Basic projects using Python / C++
+- 🎯 Goal: Become a **high-skill software engineer** capable of building scalable apps
 
 ---
 
-## 🔥 Current Focus
+## 🛠️ Tech Stack
 
-- One DSA problem daily ✅
-- Learn new dev frameworks ✅ 
-- Getting better every single day 🌱
+**Languages:**  
+`C++` `Python` `HTML` `CSS` `JavaScript (Basics)`
+
+**Tools & IDEs:**  
+`VS Code` `Git` `GitHub` `Windows Terminal` `Neovim (learning)`  
+
+**Core Areas:**  
+`Problem Solving` `Object-Oriented Programming` `Algorithms` `System Design (beginner)`
 
 ---
 
-Thanks for visiting! 😊
+## 🧩 Current Focus
+- Sharpening **DSA** for strong fundamentals  
+- Building **mini projects** (Calculator, Bank Management System, Portfolio Website)  
+- Learning **Git workflow** and **collaborative development**
 
+---
+
+## 📚 Projects
+🚧 *(more coming soon...)*  
+- 🔹 [Data Structures & Algorithms](#) – My DSA journey repo  
+- 🔹 [C++ Projects](#) – Small console-based applications  
+- 🔹 [Python Projects](#) – Experimenting with automation & logic-based tasks  
+
+---
+
+## 📈 GitHub Stats
+![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonitPaul19&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonitPaul19&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-RonitPaul19-blue?style=flat-square&logo=github)](https://github.com/RonitPaul19)  
+📧 **Email:** *ronitpaulindia@gmail.com*
+
+---
+
+> *"Code. Break. Fix. Repeat — until you become unstoppable."* 🚀
