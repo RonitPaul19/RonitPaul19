@@ -44,7 +44,6 @@ Problem Solving · Object-Oriented Programming · Algorithms · System Design (b
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RonitPaul19&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonitPaul19&theme=tokyonight&hide_border=true" height="150">
 </p>
 
 ---
