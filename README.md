@@ -1,50 +1,59 @@
-# 👋 Hey, I'm Ronit Paul
+<h1 align="center">Hey, I'm Ronit Paul</h1>
 
-🎯 **Aspiring Software Engineer | C++ Developer | DSA Enthusiast | Web designing**
+<p align="center">
+Aspiring Software Engineer · C++ Developer · DSA Enthusiast · Web Designer
+</p>
 
 ---
 
-## 🚀 About Me
-- 🧠 Currently a **Class 12 (AHSEC)** student focused on **JEE prep + Software Development**  
-- 💻 Passionate about **building efficient systems**, solving **DSA problems**, and learning **real-world development**  
-- 🔥 I believe in mastering **fundamentals + clean code** before frameworks  
-- 🌱 Currently learning:
+## About Me
+
+- Currently a **Class 12 (AHSEC)** student focused on **JEE preparation** and **software development**.  
+- Passionate about building **efficient systems**, writing **clean, maintainable code**, and learning **real-world development** practices.  
+- Believe in mastering **fundamentals before frameworks** — deep understanding over shortcuts.  
+- Currently learning:
   - Data Structures & Algorithms (C++)
   - Git & GitHub for version control
-  - Basic projects using Python / C++
-- 🎯 Goal: Become a **high-skill software engineer** capable of building scalable apps
+  - Small projects using Python and C++
+- Long-term goal: to become a **skilled software engineer** capable of building scalable applications and tools.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages:**  
-`C++` `Python` `HTML` `CSS` `JavaScript (Basics)`
+**Languages**  
+C++ · Python · HTML · CSS · JavaScript (Basics)
 
-**Tools & IDEs:**  
-`VS Code` `Git` `GitHub` `Windows Terminal` `Neovim (learning)`  
+**Tools & IDEs**  
+VS Code · Git · GitHub · Windows Terminal · Neovim (learning)
 
-**Core Areas:**  
-`Problem Solving` `Object-Oriented Programming` `Algorithms` `System Design (beginner)`
-
----
-
-## 🧩 Current Focus
-- Sharpening **DSA** for strong fundamentals  
-- Building **mini projects** (Calculator, Bank Management System, Portfolio Website)  
-- Learning **Git workflow** and **collaborative development**
+**Core Areas**  
+Problem Solving · Object-Oriented Programming · Algorithms · System Design (beginner)
 
 ---
 
-## 📈 GitHub Stats
-![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonitPaul19&show_icons=true&theme=tokyonight)
+## Current Focus
+
+- Strengthening **DSA fundamentals** through problem-solving.  
+- Building **mini-projects** such as a calculator, bank management system, and portfolio website.  
+- Practicing **Git workflow** and exploring **collaborative development**.
 
 ---
 
-## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-RonitPaul19-blue?style=flat-square&logo=github)](https://github.com/RonitPaul19)  
-📧 **Email:** *ronitpaulindia@gmail.com*
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonitPaul19&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonitPaul19&theme=tokyonight&hide_border=true" height="150">
+</p>
 
 ---
 
-> *"Code. Break. Fix. Repeat — until you become unstoppable."* 🚀
+## Connect With Me
+
+[GitHub Profile](https://github.com/RonitPaul19)  
+Email: **ronitpaulindia@gmail.com**
+
+---
+
+<p align="center"><i>"Code. Break. Fix. Repeat — until you become unstoppable."</i></p>
