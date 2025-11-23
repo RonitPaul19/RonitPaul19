@@ -22,13 +22,13 @@ Aspiring Software Engineer · C++ Developer · DSA Enthusiast · Web Designer
 ## Tech Stack
 
 **Languages**  
-C++ · Python · HTML · CSS · JavaScript (Basics)
+C++ · Python · HTML · CSS · JavaScript
 
 **Tools & IDEs**  
-VS Code · Git · GitHub · Windows Terminal · Neovim (learning)
+VS Code · Git · GitHub · Windows Terminal
 
 **Core Areas**  
-Problem Solving · Object-Oriented Programming · Algorithms · System Design (beginner)
+Problem Solving · Object-Oriented Programming · Algorithms
 
 ---
 
