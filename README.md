@@ -8,7 +8,7 @@ Aspiring Software Engineer · C++ Developer · DSA Enthusiast · Web Designer
 
 ## About Me
 
-- Currently a **Class 12 (AHSEC)** student focused on **JEE preparation** and **software development**.  
+- Currently a **Class 12 passout** student focused on **JEE preparation** and **software development**.  
 - Passionate about building **efficient systems**, writing **clean, maintainable code**, and learning **real-world development** practices.  
 - Believe in mastering **fundamentals before frameworks** — deep understanding over shortcuts.  
 - Currently learning:
