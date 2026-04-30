@@ -1,58 +1,55 @@
-<h1 align="center">Hey, I'm Ronit Paul</h1>
+<h1 align="center">Hi, I'm Ronit Paul</h1>
 
 <p align="center">
-Aspiring Software Engineer · C++ Developer · DSA Enthusiast · Web Designer
+Full Stack Web Developer · DSA Learner · Aspiring Software Engineer
 </p>
 
 ---
 
 ## About Me
 
-- Currently a **Class 12 passout** student focused on **JEE preparation** and **software development**.  
-- Passionate about building **efficient systems**, writing **clean, maintainable code**, and learning **real-world development** practices.  
-- Believe in mastering **fundamentals before frameworks** — deep understanding over shortcuts.  
-- Currently learning:
-  - Data Structures & Algorithms (C++)
-  - Git & GitHub for version control
-  - Small projects using Python and C++
-- Long-term goal: to become a **skilled software engineer** capable of building scalable applications and tools.
+- Focused on **Data Structures & Algorithms using C++** and core problem-solving.
+- Building a strong foundation in **software development fundamentals** before moving to advanced frameworks.
+- Interested in **system design, efficient algorithms, and clean code practices**.
 
 ---
 
 ## Tech Stack
 
 **Languages**  
-C++ · Python · HTML · CSS · JavaScript
+C++ · Python · JavaScript · HTML · CSS  
 
-**Tools & IDEs**  
-VS Code · Git · GitHub · Windows Terminal
+**Tools**  
+Git · GitHub · VS Code . Zed . NeoVim
 
-**Core Areas**  
-Problem Solving · Object-Oriented Programming · Algorithms
+**Core Skills**  
+Data Structures · Algorithms · OOP · Problem Solving 
+
+---
+
+## Projects
+
+- 🏦 **Bank Management System (C++)**  
+  → File handling, OOP concepts, modular design  
+
+- 🌐 **Portfolio Website**  
+  → Responsive design using HTML, CSS, JS  
 
 ---
 
 ## Current Focus
 
-- Strengthening **DSA fundamentals** through problem-solving.  
-- Building **mini-projects** such as a calculator, bank management system, and portfolio website.  
-- Practicing **Git workflow** and exploring **collaborative development**.
+- Solving DSA problems daily  
+- Improving Git & GitHub workflow  
+- Building consistent project portfolio  
 
 ---
 
-## GitHub Stats
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonitPaul19&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-</p>
-
----
-
-## Connect With Me
-
-[GitHub Profile](https://github.com/RonitPaul19)  
-Email: **ronitpaulindia@gmail.com**
+GitHub: https://github.com/RonitPaul19  
+Email: ronitpaulindia@gmail.com  
 
 ---
 
-<p align="center"><i>"Code. Break. Fix. Repeat — until you become unstoppable."</i></p>
+<p align="center"><i>"Consistency beats intensity."</i></p>
