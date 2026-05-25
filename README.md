@@ -28,26 +28,6 @@ Full Stack Developer • DSA Learner • Aspiring Software Engineer
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonitPaul19&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitPaul19&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00FFFF/RonitPaul19" alt="Ronit Paul's Github chart" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
