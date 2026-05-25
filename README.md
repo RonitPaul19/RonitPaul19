@@ -5,32 +5,30 @@ Full Stack Developer • DSA Learner • Aspiring Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;DSA+with+C%2B%2B;Problem+Solver;Open+Source+Learner;Building+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;DSA+with+C%2B%2B;Problem+Solver;Building+Projects+Every+Day;Future+Software+Engineer" />
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🔭 Currently focused on **Data Structures & Algorithms using C++**
+- 🔭 Focused on mastering **Data Structures & Algorithms using C++**
 - 🌱 Learning **Full Stack Web Development**
-- ⚡ Interested in **System Design, Clean Architecture & Problem Solving**
-- 💻 Building projects to improve real-world development skills
-- 🚀 Goal: Become a strong software engineer with deep CS fundamentals
+- 💻 Building projects to improve real-world engineering skills
+- ⚡ Interested in **System Design, Efficient Algorithms & Clean Code**
+- 🚀 Goal: Become a highly skilled software engineer
 
 ---
 
 # 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,vue,git,github,vscode,neovim" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,vue,git,github,vscode,neovim" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -42,10 +40,18 @@ Full Stack Developer • DSA Learner • Aspiring Software Engineer
 
 ---
 
-# 📈 Contribution Graph
+# 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonitPaul19&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://ghchart.rshah.org/00FFFF/RonitPaul19" alt="Ronit Paul's Github chart" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RonitPaul19&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,12 +62,12 @@ Full Stack Developer • DSA Learner • Aspiring Software Engineer
 - File Handling
 - OOP Concepts
 - Modular Design
-- Console-based Banking Operations
+- Console-Based Banking Operations
 
 ## 🌐 Portfolio Website
-- Responsive UI
+- Responsive UI Design
 - HTML, CSS, JavaScript
-- Modern Frontend Design
+- Modern Frontend Layout
 
 ---
 
@@ -69,8 +75,8 @@ Full Stack Developer • DSA Learner • Aspiring Software Engineer
 
 - Solving DSA problems daily
 - Improving Git & GitHub workflow
-- Building full stack projects
-- Strengthening core CS fundamentals
+- Building strong development fundamentals
+- Creating a consistent project portfolio
 
 ---
 
